@@ -27,4 +27,4 @@ while True:
 		camera.capture('/home/pi/selfie.jpg')
 		camera.stop_preview()
 
-	sleep(3) X
+	sleep(3)
